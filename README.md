@@ -7,20 +7,6 @@ This project is perfect for learning the Django project structure, working with 
 
 ---
 
-## 📸 Screenshots
-
-> *Login Page*
-
-![Login Page](screenshots/login.png)
-
-> *Signup Page*
-
-![Signup Page](screenshots/signup.png)
-
-> *(Optional)* Add homepage screenshot
-
----
-
 ## 📁 Project Structure
 moviesstore/
 ├── accounts/ # Handles login/signup
